@@ -1,0 +1,17 @@
+{
+  "name": "gitautodeploy",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodyNotFound/GitAutoDeploy.git"
+  },
+  "author": "CodyNotFound",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "chalk": "4",
+    "express": "^4.17.2",
+    "shelljs": "^0.8.5",
+    "silly-datetime": "^0.1.2"
+  }
+}
